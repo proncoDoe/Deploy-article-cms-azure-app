@@ -53,7 +53,7 @@ Or, once the MS Login button is implemented, it will automatically log into the 
 ![storage-access-key](https://i.ibb.co/LxxGP18/storage-access-key.png)
 
 5. uri-redirect-endpoint is a screenshot of the redirect URIs related to Microsoft authentication.
-![uri](https://i.ibb.co/1sSJNrv/url-endpoint.png)
+![uri](https://i.ibb.co/s9LdYmP/url-endpoint-azure.png)
 
 6. log-solution.png is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream.
 ![app_log](example_images/log-solution.png)
