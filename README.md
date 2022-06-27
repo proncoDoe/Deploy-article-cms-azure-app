@@ -51,23 +51,31 @@ Example: `https://proncodoe800.azurewebsites.net`
 2. Successful login Screenshots.
 ![auth](https://i.ibb.co/FwBxgTz/successful-signin.png)
 
-3. article-cms is a screenshot of deployed app
+
+3. logging console Screenshots.
+![auth](https://i.ibb.co/jG2TmLw/logging-console.png)
+
+4. article-cms is a screenshot of deployed app
 ![article](https://i.ibb.co/NthKMsp/article-cms.png)
 
-4. azure-portal-resource-group is a screenshot from the Azure Portal showing all of the contents of the Resource Group I have created.
+5. azure-portal-resource-group is a screenshot from the Azure Portal showing all of the contents of the Resource Group I have created.
 ![resources-group](https://i.ibb.co/KKTYTFB/resource-gouo.png)
 
-5. Databse storage is a screenshot showing the created tables and one query of data from the initial scripts.
+6. Databse storage is a screenshot showing the created tables and one query of data from the initial scripts.
 ![databse-storage](https://i.ibb.co/6WFqY1q/azure-databse.png)
 
-6. storage access-key is a screenshot showing an example of blob endpoints for where images are sent for storage.
+7. storage access-key is a screenshot showing an example of blob endpoints for where images are sent for storage.
 ![storage-access-key](https://i.ibb.co/LxxGP18/storage-access-key.png)
 
-7. uri-redirect-endpoint is a screenshot of the redirect URIs related to Microsoft authentication.
+8. uri-redirect-endpoint is a screenshot of the redirect URIs related to Microsoft authentication.
 ![uri](https://i.ibb.co/s9LdYmP/url-endpoint-azure.png)
 
-8. loggs is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream.
+9. loggs is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream.
 ![app log](https://i.ibb.co/rcNCbhX/loggs.png)
+![app log](https://i.ibb.co/J5nJdFD/loggs2.png)
+
+logging console loggs screenshot
+![app log](https://i.ibb.co/M2Y74bs/loggs3.png)
 
 ## Dependencies
 
