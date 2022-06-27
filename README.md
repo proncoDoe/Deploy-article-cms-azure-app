@@ -8,6 +8,11 @@ Username: admin
 Password: pass
 Or, once the MS Login button is implemented, it will automatically log into the admin account.
 
+
+
+Example: `https://proncodoe800.azurewebsites.net`
+
+
 ## Project Instructions (For Student)
 
 `Authication steps`
