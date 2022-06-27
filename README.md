@@ -55,7 +55,7 @@ Example: `https://proncodoe800.azurewebsites.net`
 ![article](https://i.ibb.co/NthKMsp/article-cms.png)
 
 4. azure-portal-resource-group is a screenshot from the Azure Portal showing all of the contents of the Resource Group I have created.
-![app_resources](https://i.ibb.co/KKTYTFB/resource-gouo.png)
+![resources-group](https://i.ibb.co/KKTYTFB/resource-gouo.png)
 
 5. Databse storage is a screenshot showing the created tables and one query of data from the initial scripts.
 ![databse-storage](https://i.ibb.co/6WFqY1q/azure-databse.png)
