@@ -43,25 +43,31 @@ Example: `https://proncodoe800.azurewebsites.net`
 9. Take a screenshot of the Redirect URIs entered for your registered app, related to the MS Login button.
 10. Take a screenshot of your logs (can be from the Log stream in Azure) showing logging from an attempt to sign in with an invalid login, as well as a valid login.
 
-## example_images Folder
+## example images overview
 
-1. article-cms-solution.png is a screenshot of deployed app
+1. Unsuccessful login attempts Screenshots.
+![auth](https://i.ibb.co/tqXC3GZ/unsuccessfully-login.png)
+
+2. Successful login Screenshots.
+![auth](https://i.ibb.co/FwBxgTz/successful-signin.png)
+
+3. article-cms is a screenshot of deployed app
 ![article](https://i.ibb.co/NthKMsp/article-cms.png)
 
-2. azure-portal-resource-group is a screenshot from the Azure Portal showing all of the contents of the Resource Group I have created.
+4. azure-portal-resource-group is a screenshot from the Azure Portal showing all of the contents of the Resource Group I have created.
 ![app_resources](https://i.ibb.co/KKTYTFB/resource-gouo.png)
 
-3. Databse storage is a screenshot showing the created tables and one query of data from the initial scripts.
+5. Databse storage is a screenshot showing the created tables and one query of data from the initial scripts.
 ![databse-storage](https://i.ibb.co/6WFqY1q/azure-databse.png)
 
-4. storage access-key is a screenshot showing an example of blob endpoints for where images are sent for storage.
+6. storage access-key is a screenshot showing an example of blob endpoints for where images are sent for storage.
 ![storage-access-key](https://i.ibb.co/LxxGP18/storage-access-key.png)
 
-5. uri-redirect-endpoint is a screenshot of the redirect URIs related to Microsoft authentication.
+7. uri-redirect-endpoint is a screenshot of the redirect URIs related to Microsoft authentication.
 ![uri](https://i.ibb.co/s9LdYmP/url-endpoint-azure.png)
 
-6. loggs is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream.
-![app_log](https://i.ibb.co/rcNCbhX/loggs.png)
+8. loggs is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream.
+![app log](https://i.ibb.co/rcNCbhX/loggs.png)
 
 ## Dependencies
 
@@ -87,6 +93,6 @@ All Python dependencies are stored in the requirements.txt file. To install them
 
 ## Credit
 
-Chris Vasquez instructor of mystore project.
+Chris Vasquez instructor of Article CMS (FlaskWebProject).
  Udacity.
 <https://www.sc.com/>
